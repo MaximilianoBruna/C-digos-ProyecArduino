@@ -1,1 +1,10 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Bruna Garrido"
+  given-names: "Maximiliano"
+ 
+title: "Proyecto Arduinos FIS-EXP"
+version: 1.0.0
+date-released: 2025-12-03
+url: "https://github.com/MaximilianoBruna/C-digos-ProyecArduino"
